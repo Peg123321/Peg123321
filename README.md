@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Peggie, a student who are studying Computer Science in Canada.
+I am Peggie, a Computer Science student in Canada who likes building things that pop into my head.
 
-I like to build things that just pops into my head
+- 🔭 I’m currently working on **Ray Tracing in One Week**, learning how to render cool images.
+- 💬 I have experience with **C++** and **TypeScript**, building projects during my studies.
+
+Things about me:
+- I love nature, especially hiking and camping.
+- I speak 3 languages.
+- I enjoy solo trips.
 
 
