@@ -22,7 +22,7 @@ I am Peggie, a Computer Science student in Canada who likes building things that
 - TypeScript
 - C++
 
-Things about me:
+## Things about me:
 - I love nature, especially hiking and camping.
 - I speak 3 languages.
 - I enjoy solo trips.
