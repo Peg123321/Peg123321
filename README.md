@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 I am Peggie, a Computer Science student in Canada who likes building things that pop into my head.
 
 - 🔭 I’m currently working on **Ray Tracing in One Week**, learning how to render cool images.
-- 💬 I have experience with **C++** and **TypeScript**, building projects during my studies.
+
+## Tools
+- TypeScript
+- C++
 
 Things about me:
 - I love nature, especially hiking and camping.
