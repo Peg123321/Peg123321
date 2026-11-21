@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-asdfasfd
+I am Peggie, a student who are studying Computer Science in Canada.
+
+I like to build things that just pops into my head
+
+
